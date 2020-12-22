@@ -12,8 +12,8 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#28262E"
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,7 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "kr.crack1.sudal",
+      "bundleIdentifier": "kr.crackone.sudal",
       "buildNumber": "1.0.0"
     },
     "android": {
@@ -31,7 +31,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "kr.crack1.sudal",
+      "package": "kr.crackone.sudal",
       "versionCode": 1
     },
     "web": {
