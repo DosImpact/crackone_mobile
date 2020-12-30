@@ -24,7 +24,10 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "kr.crackone.sudal",
-      "buildNumber": "2.0.0"
+      "buildNumber": "2.0.0",
+      "config": {
+        "usesnonexemptencryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
