@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "sudal",
-    "slug": "sudal",
-    "version": "2.0.0",
+    "name": "수능이달다",
+    "slug": "수능이달다",
+    "version": "3.0.0",
     "platforms": [
       "ios",
       "android",
@@ -24,7 +24,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "kr.crackone.sudal",
-      "buildNumber": "2.0.0"
+      "buildNumber": "3.0.0"
     },
     "android": {
       "adaptiveIcon": {
@@ -32,7 +32,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "kr.crackone.sudal",
-      "versionCode": 2
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
